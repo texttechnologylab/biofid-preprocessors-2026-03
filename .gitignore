@@ -1,0 +1,14 @@
+# Never track large runtime data in this repository
+**/input/
+**/out/
+**/logs/
+**/tdb/
+**/tdb-*/
+**/tbd-*/
+**/*.xmi
+**/*.xmi.gz
+**/*.xmi.bz2
+**/*.zip
+**/*.bz2
+**/*.gz
+*.log
